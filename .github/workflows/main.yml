@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-jobs:
+jobs1:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
@@ -54,7 +54,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-jobs:
+jobs12:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
